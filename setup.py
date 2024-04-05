@@ -17,7 +17,7 @@ URL = "https://github.com/Chris-hughes10/Yolov7-training"
 EMAIL = "31883449+Chris-hughes10@users.noreply.github.com"
 AUTHOR = "Chris Hughes and Bernat Puig Camps"
 REQUIRES_PYTHON = ">=3.7.0"
-VERSION = "0.1.1"
+VERSION = "0.1.2"
 
 FILEPATH = os.path.abspath(os.path.dirname(__file__))
 REQUIRED = []
